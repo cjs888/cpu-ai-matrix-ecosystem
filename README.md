@@ -114,4 +114,3 @@ The era of global CPU AI-matrix public ecosystem is coming.**
 
 This conceptual framework is permanently open-sourced, free of charge and open for global co-development.
 All developers worldwide may take part in standard formulation, architecture optimization, model development and ecological iteration freely.
-#（注：内容由AI生成）
