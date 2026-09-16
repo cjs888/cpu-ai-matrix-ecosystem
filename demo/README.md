@@ -198,16 +198,19 @@ Micro‑Module Layer (MicroModule)
 - Training, fine‑tuning workflow and supporting tool‑chain.
 
 ## Directory structure of demo prototype
+```
 demo/
 ├── README.md
-├── message.py          # Standard message model
-├── scheduler.py        # Minimal scheduler prototype
-├── micro_module.py     # Abstract base class for all micro‑modules
+├── message.py        # Standard message model
+├── scheduler.py      # Minimal scheduler prototype
+├── micro_module.py   # Abstract base class for all micro‑modules
 ├── example_modules/
 │   ├── text_analyser.py
 │   └── data_compute.py
-├── client.py           # Simulation client
-└── main.py             # Program entry, run end‑to‑end demo
+├── client.py         # Simulation client
+└── main.py           # Program entry, run end‑to‑end demo
+```
+
 
 ## Run Instructions
 ```bash
